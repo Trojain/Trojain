@@ -8,8 +8,9 @@
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trojain&layout=compact)](https://github.com/Trojain)
+<img src="https://stats.justsong.cn/api/csdn?id=x550392236">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Trojain&margin-w=15&margin-h=15)](https://github.com/Trojain)
 
- <img src="https://stats.justsong.cn/api/csdn?id=x550392236">
+
 
