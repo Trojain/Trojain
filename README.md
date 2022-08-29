@@ -11,5 +11,5 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Trojain&margin-w=15&margin-h=15)](https://github.com/Trojain)
 
- <img src="https://stats.justsong.cn/api/csdn?id=x550392236">
+ <img src="https://stats.justsong.cn/api/juejin?id=4388906147524782">
 
