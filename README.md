@@ -1,4 +1,6 @@
 <div align="center">
+
+![](https://raw.githubusercontent.com/Trojain/Trojain/main/assets/github-contribution-grid-snake.svg)
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&background=FFFFFF00&center=true&multiline=true&width=435&lines=You+cannot+improve+your+past%2C;but+you+can+improve+your+future.)](https://git.io/typing-svg)
   
