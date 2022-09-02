@@ -2,7 +2,7 @@
 
   ![亮色](https://github.com/Trojain/Trojain/blob/7c4e98446cecb7e049051be41128e4b5f6278fe3/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&background=FFFFFF00&center=true&multiline=true&width=435&lines=You+cannot+improve+your+past%2C;but+you+can+improve+your+future.)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&background=FFFFFF00&center=true&multiline=true&width=435&lines=You+cannot+improve+your+past%2C;but+you+can+improve+your+future.)](https://git.io/typing-svg) 
   
   <p></p>
   
