@@ -1,7 +1,5 @@
 <div align="center">
 
-  ![亮色](https://github.com/Trojain/Trojain/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&background=FFFFFF00&center=true&multiline=true&width=435&lines=You+cannot+improve+your+past%2C;but+you+can+improve+your+future.)](https://git.io/typing-svg) 
   
   <p></p>
@@ -76,6 +74,9 @@
   [<img src="https://stats.justsong.cn/api/csdn?id=x550392236">](https://stats.justsong.cn/api/csdn?id=x550392236)
   
 <!--   ![Metrics](https://metrics.lecoq.io/Trojain?template=classic&isocalendar=1&languages=1&topics=1&stars=1&habits=1&followup=1&reactions=1&introduction=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&topics=false&topics.mode=starred&topics.sort=stars&topics.limit=15&stars=false&stars.limit=4&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&reactions=false&reactions.limit=200&reactions.limit.issues=100&reactions.limit.discussions=100&reactions.limit.discussions.comments=100&reactions.days=0&reactions.display=absolute&introduction=false&introduction.title=true&config.timezone=Asia%2FShanghai) -->
+
+
+  ![亮色](https://github.com/Trojain/Trojain/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 </div>
 
